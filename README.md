@@ -7,7 +7,7 @@ Example for ProxySpace GEO Location API written in Typescript
 <br>If ``IP`` is not provided it fallbacks on your own IP.
 
 ### Example output:
-```json
+```js
 OK
 {
   asn_number: 502xx,
