@@ -23,3 +23,6 @@ OK
 }
 Speed 131.55 MS
 ```
+
+### Installation
+``npm i``
