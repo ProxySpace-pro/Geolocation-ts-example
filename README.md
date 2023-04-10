@@ -26,3 +26,6 @@ Speed 131.55 MS
 
 ### Installation
 ``npm i``
+
+#### Requirements
+``ts-node`` => ``npm -g i ts-node``
