@@ -4,7 +4,7 @@ Example for ProxySpace GEO Location API written in Typescript
 ### Usage
 ``ts-node api-req.ts <ip>``
 
-<br>If ``IP`` is not provided it fallbacks on your own IP.
+<br>If ``IP`` is not provided it fall backs on your own IP.
 
 ### Example output:
 ```bash
